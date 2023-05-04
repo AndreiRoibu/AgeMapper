@@ -1,6 +1,6 @@
 # AgeMapper
 
-This is a working release of AgeMapper. For any issues, please contact Andrei Roibu at andrei-claudiu.roibu@dtc.ox.ac.uk. 
+This is a working release of AgeMapper, also reffered to as HGL. For any issues, please contact Andrei Roibu at andrei-claudiu.roibu@dtc.ox.ac.uk. 
 
 The code is still undergoing modifications and further additions will be made in the coming period.
 
