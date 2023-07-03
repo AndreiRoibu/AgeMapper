@@ -31,7 +31,7 @@ In the __datasets__ there is also a file named __scaling_values_simple.csv__. Th
 
 ## Correlations to UK Biobank nIDPs
 
-One of the major findings of this work has been that all contrasts correlate significantly and differently with a large number of nIDPs from the UK Biobank. The correlations and the information for accessing the data is made freely available for the research community to further investigate. All the correlations can be accessed at on Zenodo at [THIS LINK](https://doi.org/10.5281/zenodo.8110876). This collection contains both the full correlation, very large files, as well as smaller files, containing only the statistically significant associations. 
+One of the major findings of this work has been that all contrasts correlate significantly and differently with a large number of nIDPs from the UK Biobank. The correlations and the information for accessing the data is made freely available for the research community to further investigate. All the correlations can be accessed at on [Zenodo](https://doi.org/10.5281/zenodo.8110876). This collection contains both the full correlation, very large files, as well as smaller files, containing only the statistically significant associations. 
 
 ## Installation & Usage
 To download and run this code as python files, you can clone this repository using git:
