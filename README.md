@@ -16,6 +16,8 @@ Brain ageing is a highly variable, spatially and temporally heterogeneous proces
 
 ## Network Architecture & Pre-Trained Networks
 
+The paper underpinning this research can be accessed on [IEEE](https://ieeexplore.ieee.org/abstract/document/10196736).
+
 The network architecture is presented in the following figure. The next figure gives an indication on how the brain ages are calculated by ensembling three identical networks. To access the pre-trained networks, please use [THIS LINK](). For information on the specific code names for each contrast and modality, please look [HERE]().  **ATTENTION - This data has not yet been added and the links do not work. Updates to follow** 
 
 ![network architecture](/figures/HGL.png)
@@ -69,17 +71,18 @@ For running network training epochs, utilise this code, setting TASK='train' (or
 
 ## References
 
-The work published in this repository has been published at the 2023 10th Swiss Conferece on Data Science (SDS). The paper can be accessed at [THIS LINK](). To reference this work, please use the following citation.
+The work published in this repository has been published at the 2023 10th Swiss Conferece on Data Science (SDS). The paper can be accessed at on [IEEE](https://ieeexplore.ieee.org/abstract/document/10196736). To reference this work, please use the following citation.
 
 ```
-@inproceedings{roibu2023brain,
-  title={Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes},
-  author={Roibu, Andrei and Adaszewski, Stanislaw and Schindler, Torsten and Smith, Stephen and Namburete, Ana and Lange, Frederik},
-  booktitle={2023 10th Swiss Conference on Data Science (SDS)},
-  pages={1--9},
+@INPROCEEDINGS{10196736,
+  author={Roibu, Andrei-Claudiu and Adaszewski, Stanislaw and Schindler, Torsten and Smith, Stephen M. and Namburete, Ana I.L. and Lange, Frederik J.},
+  booktitle={2023 10th IEEE Swiss Conference on Data Science (SDS)}, 
+  title={Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes}, 
   year={2023},
-  organization={IEEE}
-}
+  volume={},
+  number={},
+  pages={17-25},
+  doi={10.1109/SDS57534.2023.00010}}
 ```
 
 In the creation of this code, material was used from the following paper. The original code can be accessed on [GitHub](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain/)
