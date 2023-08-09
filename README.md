@@ -74,14 +74,13 @@ For running network training epochs, utilise this code, setting TASK='train' (or
 The work published in this repository has been published at the 2023 10th Swiss Conferece on Data Science (SDS). The paper can be accessed at on [IEEE](https://ieeexplore.ieee.org/abstract/document/10196736). To reference this work, please use the following citation.
 
 ```
-@INPROCEEDINGS{10196736,
-  author={Roibu, Andrei-Claudiu and Adaszewski, Stanislaw and Schindler, Torsten and Smith, Stephen M. and Namburete, Ana I.L. and Lange, Frederik J.},
-  booktitle={2023 10th IEEE Swiss Conference on Data Science (SDS)}, 
-  title={Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes}, 
+@inproceedings{roibu2023brain,
+  title={Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes},
+  author={Roibu, Andrei-Claudiu and Adaszewski, Stanislaw and Schindler, Torsten and Smith, Stephen M and Namburete, Ana IL and Lange, Frederik J},
+  booktitle={2023 10th IEEE Swiss Conference on Data Science (SDS)},
+  pages={17--25},
   year={2023},
-  volume={},
-  number={},
-  pages={17-25},
+  organization={IEEE},
   doi={10.1109/SDS57534.2023.00010}}
 ```
 
